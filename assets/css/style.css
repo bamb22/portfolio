@@ -25,6 +25,10 @@ a:hover{
     color: coral;
 }
 
+span{
+   color: coral;
+}
+
 .link{
     font-size: 1rem;
     margin: 0;
